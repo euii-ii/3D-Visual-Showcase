@@ -23,8 +23,9 @@ CSS3: Styling and 3D transformations for the gallery's interactive effects.
 🎯 How to Use
 
 Clone the repository:
-bash
+
 Copy code
+
 https://github.com/euii-ii/3d-gallery.git
 
 Open index.html in your browser to view the gallery.
