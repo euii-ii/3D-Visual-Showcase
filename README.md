@@ -25,14 +25,11 @@ CSS3: Styling and 3D transformations for the gallery's interactive effects.
 Clone the repository:
 bash
 Copy code
+https://github.com/euii-ii/3d-gallery.git
 
-git clone t
-Navigate to the project directory:
-bash
-Copy code
-cd 3d-gallery
 Open index.html in your browser to view the gallery.
 
 📄 License
+
 This project is licensed under the MIT License. See the LICENSE file for details.
 
